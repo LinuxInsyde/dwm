@@ -1,0 +1,6 @@
+#+TITLE: Suckless DWM
+#+AUTHOR: LinuxInsyde
+#+EMAIL: linuxinsyde@outlook.com
+
+This is my Suckless DWM config. It uses the =config.def.h= file instead of =config.h= and has the
+[[https://dwm.suckless.org/patches/vanitygaps][vanitygaps]] patch
